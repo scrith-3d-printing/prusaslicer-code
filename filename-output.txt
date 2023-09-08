@@ -1,0 +1,5 @@
+{input_filename_base} ({nozzle_diameter[0]}mm) {print_time} {digits(total_weight,1,0)}g {filament_type[0]} ({digits(layer_height,1,2)}x{digits(fill_density,1,0)}% r{digits(retract_length[0],1,2)} {temperature[0]}-{bed_temperature[0]} {perimeter_speed}mms).gcode
+
+yields:
+
+articulated-goldfish (0.4mm) 3h28m 30g PLA (0.20x15% r1.70 210-55 40mms).gcode
