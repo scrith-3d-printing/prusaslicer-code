@@ -2,4 +2,4 @@
 
 yields:
 
-articulated-goldfish (0.4mm) 3h28m 30g PLA (0.20x15% r1.70 210-55 40mms).gcode
+benchy (0.4mm) 3h28m 30g PLA (0.20x15% r1.70 210-55 40mms).gcode
