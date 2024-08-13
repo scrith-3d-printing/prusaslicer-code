@@ -1,5 +1,5 @@
-{input_filename_base} ({nozzle_diameter[0]}mm) {print_time} {digits(total_weight,1,0)}g {filament_type[0]} ({digits(layer_height,1,2)}x{digits(sparse_infill_density,1,0)}% r{digits(retraction_length[0],1,2)} {nozzle_temperature[0]}-{hot_plate_temp[0]} {inner_wall_speed}mms).gcode
+{input_filename_base} ({nozzle_diameter[0]}mm) {print_time} {digits(total_weight,1,2)}g {filament_type[0]} ({digits(layer_height,1,2)}x{digits(sparse_infill_density,1,0)}% r{digits(retraction_length[0],1,2)} {nozzle_temperature[0]}-{hot_plate_temp[0]} {inner_wall_speed}mms).gcode
 
 yields:
 
-benchy (0.4mm) 3h28m 30g PLA (0.20x15% r1.70 210-55 40mms).gcode
+benchy (0.4mm) 3h28m 30.05g PLA (0.20x15% r1.70 210-55 40mms).gcode
